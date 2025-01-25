@@ -24,6 +24,12 @@ body {
     border: 1px solid #ddd;
 }
 
+#loading {
+    font-size: 18px;
+    color: #007BFF;
+    margin-top: 20px;
+}
+
 button {
     padding: 10px 20px;
     background-color: #1e90ff;
