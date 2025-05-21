@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A modern, secure weather application by AnnisaCode",
+  "main": "index.html",
+  "scripts": {
+    "build": "node vercel-build.js",
+    "start": "serve ."
+  },
+  "keywords": [
+    "weather",
+    "openweathermap",
+    "forecast"
+  ],
+  "author": "AnnisaCode",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "serve": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 

@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": 2,
+  "public": false,
+  "builds": [
+    { "src": "package.json", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ],
+  "github": {
+    "silent": true
+  }
+} 
