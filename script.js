@@ -20,7 +20,7 @@ const WEATHER_ICONS = {
 
 // API key configuration
 const API_KEY_CONFIG = {
-    key: '706703ebfee7595a6de3e744f2426e39', // Placeholder yang akan diganti oleh build script
+    key: '706703ebfee7595a6de3e744f2426e39',
     getKey: function () {
         return this.key;
     }

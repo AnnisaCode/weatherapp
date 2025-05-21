@@ -74,8 +74,7 @@ weather-app/
 ├── styles.css          # Styling and animations
 ├── script.js           # Application logic and API integration
 ├── purify.min.js       # DOMPurify for input sanitization
-├── package.json        # Project configuration and dependencies
-└── vercel.json         # Deployment configuration for Vercel
+└── package.json        # Project configuration and dependencies
 ```
 
 ## Performance Optimization

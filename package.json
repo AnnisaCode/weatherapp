@@ -4,7 +4,6 @@
   "description": "A modern, secure weather application by AnnisaCode",
   "main": "index.html",
   "scripts": {
-    "build": "node vercel-build.js",
     "start": "serve ."
   },
   "keywords": [
